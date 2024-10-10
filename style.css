@@ -36,10 +36,7 @@
         max-width: 1200px;
     }
 }
-header{
-    background-color: #ae1f23;
 
-}
 .row {
 	margin-right: calc(var(--bs-gutter-x) * -.6);
 	margin-left: calc(var(--bs-gutter-x) * -.6);
