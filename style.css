@@ -36,7 +36,9 @@
         max-width: 1200px;
     }
 }
-
+header{
+    background-color: rgb(189, 6, 6);
+}
 .row {
 	margin-right: calc(var(--bs-gutter-x) * -.6);
 	margin-left: calc(var(--bs-gutter-x) * -.6);
